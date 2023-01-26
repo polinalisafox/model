@@ -21,7 +21,7 @@
 
 **Структура по примеру России** 
 
-![image](https://user-images.githubusercontent.com/94033956/214838395-718335a2-2419-47ea-b95d-fc184703286f.png) "Структура")
+![image](https://user-images.githubusercontent.com/94033956/214838395-718335a2-2419-47ea-b95d-fc184703286f.png) 
 
 
 ### [3. Организация работ по стандартизации.](README.md#Организация_работ_по_стандартизации)
